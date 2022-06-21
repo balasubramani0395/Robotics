@@ -1,0 +1,5 @@
+gnome-terminal -e "bash -c \"./modbus_bgd\""
+gnome-terminal -e "bash -c \"./Coneyor_PLC_Hardware_Emulator\""
+gnome-terminal -e "bash -c \"./Conveyor_PLC_Interface\""
+gnome-terminal -e "bash -c \"./OPSVM0003_Server\""
+gnome-terminal -e "bash -c \"./MSI_Client_GUI\""
