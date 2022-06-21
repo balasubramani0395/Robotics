@@ -1,0 +1,4 @@
+/home/balaji/Downloads/Gemini/task/ExternalLibs/gTest/CMakeFiles/rebuild_cache.dir
+/home/balaji/Downloads/Gemini/task/ExternalLibs/gTest/CMakeFiles/edit_cache.dir
+/home/balaji/Downloads/Gemini/task/ExternalLibs/gTest/CMakeFiles/gtest_main.dir
+/home/balaji/Downloads/Gemini/task/ExternalLibs/gTest/CMakeFiles/gtest.dir
